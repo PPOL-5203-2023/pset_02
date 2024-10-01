@@ -64,7 +64,7 @@ Submit your assignment via github, via stagging, commit and push.
 - Save your notebook as `<_yourname__ps_set2.ipynb>`
 
 
-If you have any questions, ask me or your TA. Feel also free to open an issue in the [template repository](https://github.com/PPOL-5203-2023/ppol-5203-2024-problem_set_02-pset_02) for this problem set
+If you have any questions, ask me or your TA. Feel also free to open an issue in the [template repository](https://github.com/PPOL-5203-2023/pset_02) for this problem set
 
 
 Enjoy!!
